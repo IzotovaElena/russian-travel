@@ -1,0 +1,19 @@
+@font-face { 
+    font-family: "InterRegular";
+    src: url("InterRegular/InterRegular.eot");
+    src: url("InterRegular/InterRegular.eot?#iefix")format("embedded-opentype"),
+    url("InterRegular/InterRegular.woff") format("woff"),
+    url("InterRegular/InterRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face { 
+    font-family: "InterExtraBold";
+    src: url("InterExtraBold/InterExtraBold.eot");
+    src: url("InterExtraBold/InterExtraBold.eot?#iefix")format("embedded-opentype"),
+    url("InterExtraBold/InterExtraBold.woff") format("woff"),
+    url("InterExtraBold/InterExtraBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 900;
+}
