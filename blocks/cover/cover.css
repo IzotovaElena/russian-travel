@@ -5,9 +5,9 @@
   background-image: url(../../images/cover-trains.jpg);
   background-size: 1184px;
   background-position: center;
-  background-repeat: no-repeat;   
+  background-repeat: no-repeat;
   margin: 0;
-  padding: 0;  
+  padding: 0;
   margin-top: 92px;
   margin-bottom: 92px;
 }
@@ -21,18 +21,18 @@
 
 @media screen and (max-width: 1023px) {
   .cover {       
-    min-height: 480px;   
-    background-size: 768px; 
-    margin-top: 90px;  
+    min-height: 480px;
+    background-size: 768px;
+    margin-top: 90px;
     margin-bottom: 88px; 
   }
 }
 
 @media screen and (max-width: 767px) {
   .cover {
-    min-height: 200px;   
-    background-size: 320px; 
-    margin-top: 66px;  
+    min-height: 200px;
+    background-size: 320px;
+    margin-top: 66px;
     margin-bottom: 64px;
   }
 }
