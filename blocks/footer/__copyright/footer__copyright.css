@@ -2,7 +2,7 @@
   font-family: 'Inter', sans-serif;
   font-weight: normal;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.14;
   text-align: right;
   color: #FFFFFF;  
   margin-bottom: 24px;
@@ -11,6 +11,6 @@
 @media screen and (max-width: 767px) {
   .footer__copyright { 
     text-align: left;  
-    line-height: 14px;         
+    line-height: 1;         
   }
 }
