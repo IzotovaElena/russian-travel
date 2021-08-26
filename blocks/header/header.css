@@ -20,16 +20,13 @@
 @media screen and (max-width: 1023px) {
   .header {
     max-width: 720px;
-    margin-bottom: 48px;
-    margin-left: 24px;
-    margin-right: 24px;
+    margin-bottom: 48px;    
   }
 }
 
 @media screen and (max-width: 767px) {
   .header {
-    max-width: 288px;
-    margin-left: 16px;
+    max-width: 288px;    
     margin-bottom: 48px;
     padding-top: 16px;
   }
