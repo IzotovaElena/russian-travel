@@ -6,7 +6,6 @@
 
 .cover__link_overlay:hover {
   background: rgba(42, 44, 47, 0.8);
-  -webkit-text-stroke: 1px #000000;
 }
 
 @media screen and (max-width: 1279px) {
