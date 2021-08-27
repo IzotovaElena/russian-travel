@@ -5,6 +5,8 @@
   line-height: 1.12;
   color: #FFFFFF;
   text-decoration: none;
+  margin: 0;
+  padding: 0;
 }
 
 .footer__link:hover {
